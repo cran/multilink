@@ -1,6 +1,6 @@
 Package: multilink
 Title: Multifile Record Linkage and Duplicate Detection
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(given = "Serge",
            family = "Aleshin-Guendel",
@@ -18,8 +18,8 @@ Imports: igraph, RecordLinkage, Rcpp, utils, mcclust, geosphere,
         stringr
 LinkingTo: Rcpp, RcppArmadillo
 NeedsCompilation: yes
-Packaged: 2023-01-20 18:23:16 UTC; sergealeshin-guendel
+Packaged: 2023-06-08 20:25:20 UTC; sergealeshin-guendel
 Author: Serge Aleshin-Guendel [aut, cre]
 Maintainer: Serge Aleshin-Guendel <saleshinguendel@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-01-23 09:20:02 UTC
+Date/Publication: 2023-06-09 14:20:07 UTC
